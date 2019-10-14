@@ -9,8 +9,7 @@ body {
 	line-height: 40px;
 }
 
-
- .parent {
+.parent {
  	width: 300px;
  	margin: 0 auto;
 	position: absolute;
@@ -19,10 +18,19 @@ body {
   height: 30%;
   width: 50%;
   margin: -15% 0 0 -25%;
-	l
 	text-align: center;
+}
 
+a {
+	color: green;
+}
 
+a:visited {
+	color: #EEC01E;
+}
+
+a:active {
+	color: #3bec42;
 }
 
 h2 {
